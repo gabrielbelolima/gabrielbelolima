@@ -1,11 +1,11 @@
 # About me
-I'm mainly a business student who found out about data while studying statistics (coded two lines in R... :laughing:) and immediately decided to become a Data Scientist. I'm from Brazil and nowadays I work as a Data Science trainee in a payment technology company as part of the Artificial Intelligence squad, which is mostly focused on finding solutions and implementing technologies for retail players. I use Python a lot, but I'm totally interested in learning all kinds of tools and languages to help me extract the best from data and from myself. I've been trying to get in touch with different areas, so I went from NLP, time series forecasting, recommendation systems for retail to simple EDA's (or not this simple EDA's...), and I love them all. So, If I can help you, count on me. If you can help me, don't hesitate for a moment! :facepunch: 
+I am a Brazilian Data Scientist working as a Business Intelligence Analyst. I'm not really engaged in creating personal projects seemed I already work a lot, but It's always great to find inspiration and time to build something new. Right now I'm working mainly with PowerBI and data visualization in general (a SQL-Python-PowerBI routine) but I will try and bring some ML projects and Data Analysis in general. So, anyone who needs assistance (as I needed some time ago) can maybe find it here. I'm always open to talking or helping in whatever way I can, so feel free to DM me!   :facepunch: 
 
 ## Interests
 
-* Statistics (even the parts I don't get.)
+* Statistics (even the parts I don't get.😅)
 * Data visualization
-* Data related Tutorials (any kind of tutorial caches my eyes, to be honest! :eyes:) 
+* Data related Tutorials (any kind of tutorial catches my eyes, to be honest! :eyes:) 
 * Books
 * ML applications
 * Learning
@@ -17,5 +17,4 @@ I'm mainly a business student who found out about data while studying statistics
 ## Get in touch
 
 * Linkedin: [in/gabrielbelolima](https://www.linkedin.com/in/gabrielbelolima/)
-* instagram: [@gabrielbelolima](https://www.instagram.com/gabrielbelolima/)
-* email: gabrielbelolima@gmail.com
+* Email: gabrielbelolima@gmail.com
