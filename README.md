@@ -16,5 +16,6 @@ I am a Brazilian Data Scientist working as a Business Intelligence Analyst. Righ
 
 ## Get in touch
 
+* Medium: [@gabrielbelolima](https://medium.com/@gabrielbelolima)
 * Linkedin: [in/gabrielbelolima](https://www.linkedin.com/in/gabrielbelolima/)
 * Email: gabrielbelolima@gmail.com
