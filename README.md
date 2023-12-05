@@ -3,7 +3,7 @@ I am a Brazilian Data Scientist working as a Business Intelligence Analyst. Righ
 
 ## Interests
 
-* Statistics (even the parts I don't get.😅)
+* Statistics
 * Data visualization 
 * Data related Tutorials (any kind of tutorial catches my eyes, to be honest! :eyes:) 
 * Books
